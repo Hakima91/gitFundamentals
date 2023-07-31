@@ -1,0 +1,16 @@
+# git init 
+the git init  command is use to create an empty repository.
+if you wanted to create a new directory and initialize a git init repository , you can do so the following 
+mkidir NewDirectory 
+cd Newdirectory 
+git init
+once inside a  git repository , you can start using commands such as
+[status](./status.md),
+[add](./add.md),
+[commit](./commit.md),
+[push](./puch.md)
+and more.
+init will create the repository in the current diroctory and will encapsulate all content, including other directories
+# Resources
+-[git init documentation](https://git-scm.com/docs/git/-init)
+[back to home](../README.md)
